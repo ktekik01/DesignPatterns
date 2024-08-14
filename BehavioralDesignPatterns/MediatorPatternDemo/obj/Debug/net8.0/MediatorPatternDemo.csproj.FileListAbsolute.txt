@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\bin\Debug\net8.0\MediatorPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\bin\Debug\net8.0\MediatorPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\bin\Debug\net8.0\MediatorPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\bin\Debug\net8.0\MediatorPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\bin\Debug\net8.0\MediatorPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\refint\MediatorPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\MediatorPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MediatorPatternDemo\obj\Debug\net8.0\ref\MediatorPatternDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\bin\Debug\net8.0\MementoPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\bin\Debug\net8.0\MementoPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\bin\Debug\net8.0\MementoPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\bin\Debug\net8.0\MementoPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\bin\Debug\net8.0\MementoPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\refint\MementoPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\MementoPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\MementoPatternDemo\obj\Debug\net8.0\ref\MementoPatternDemo.dll

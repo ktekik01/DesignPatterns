@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\bin\Debug\net8.0\AbstractFactoryPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\bin\Debug\net8.0\AbstractFactoryPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\bin\Debug\net8.0\AbstractFactoryPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\bin\Debug\net8.0\AbstractFactoryPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\bin\Debug\net8.0\AbstractFactoryPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\refint\AbstractFactoryPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\AbstractFactoryPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\AbstractFactoryPatternDemo\obj\Debug\net8.0\ref\AbstractFactoryPatternDemo.dll

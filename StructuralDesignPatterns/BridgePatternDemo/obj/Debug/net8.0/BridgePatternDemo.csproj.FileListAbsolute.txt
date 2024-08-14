@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\bin\Debug\net8.0\BridgePatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\bin\Debug\net8.0\BridgePatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\bin\Debug\net8.0\BridgePatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\bin\Debug\net8.0\BridgePatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\bin\Debug\net8.0\BridgePatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\refint\BridgePatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\BridgePatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\BridgePatternDemo\obj\Debug\net8.0\ref\BridgePatternDemo.dll

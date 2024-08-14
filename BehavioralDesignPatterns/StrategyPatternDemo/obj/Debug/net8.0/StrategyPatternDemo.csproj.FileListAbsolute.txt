@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\bin\Debug\net8.0\StrategyPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\bin\Debug\net8.0\StrategyPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\bin\Debug\net8.0\StrategyPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\bin\Debug\net8.0\StrategyPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\bin\Debug\net8.0\StrategyPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\refint\StrategyPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\StrategyPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\StrategyPatternDemo\obj\Debug\net8.0\ref\StrategyPatternDemo.dll

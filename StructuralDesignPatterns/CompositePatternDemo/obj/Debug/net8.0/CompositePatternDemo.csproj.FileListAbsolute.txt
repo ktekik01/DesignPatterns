@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\bin\Debug\net8.0\CompositePatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\bin\Debug\net8.0\CompositePatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\bin\Debug\net8.0\CompositePatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\bin\Debug\net8.0\CompositePatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\bin\Debug\net8.0\CompositePatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\refint\CompositePatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\CompositePatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\CompositePatternDemo\obj\Debug\net8.0\ref\CompositePatternDemo.dll

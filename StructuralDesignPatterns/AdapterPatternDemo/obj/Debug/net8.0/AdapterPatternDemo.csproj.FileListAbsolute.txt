@@ -1,0 +1,15 @@
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\bin\Debug\net8.0\AdapterPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\bin\Debug\net8.0\AdapterPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\bin\Debug\net8.0\AdapterPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\bin\Debug\net8.0\AdapterPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\bin\Debug\net8.0\AdapterPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.sourcelink.json
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\refint\AdapterPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\AdapterPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\github\DesignPatterns\StructuralDesignPatterns\AdapterPatternDemo\obj\Debug\net8.0\ref\AdapterPatternDemo.dll

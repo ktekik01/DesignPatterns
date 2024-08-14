@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\refint\BuilderPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BuilderPatternDemo\obj\Debug\net8.0\ref\BuilderPatternDemo.dll

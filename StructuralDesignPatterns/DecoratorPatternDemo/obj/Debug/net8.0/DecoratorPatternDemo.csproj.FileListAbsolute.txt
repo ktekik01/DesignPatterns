@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\refint\DecoratorPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\StructuralDesignPatterns\DecoratorPatternDemo\obj\Debug\net8.0\ref\DecoratorPatternDemo.dll

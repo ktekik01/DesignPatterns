@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\bin\Debug\net8.0\ObserverPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\bin\Debug\net8.0\ObserverPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\bin\Debug\net8.0\ObserverPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\bin\Debug\net8.0\ObserverPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\bin\Debug\net8.0\ObserverPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\refint\ObserverPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ObserverPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\BehavioralDesignPatterns\ObserverPatternDemo\obj\Debug\net8.0\ref\ObserverPatternDemo.dll

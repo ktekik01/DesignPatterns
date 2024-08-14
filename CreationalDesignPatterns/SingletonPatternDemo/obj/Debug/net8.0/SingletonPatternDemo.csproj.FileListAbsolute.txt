@@ -1,0 +1,14 @@
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\bin\Debug\net8.0\SingletonPatternDemo.exe
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\bin\Debug\net8.0\SingletonPatternDemo.deps.json
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\bin\Debug\net8.0\SingletonPatternDemo.runtimeconfig.json
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\bin\Debug\net8.0\SingletonPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\bin\Debug\net8.0\SingletonPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\refint\SingletonPatternDemo.dll
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.pdb
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\SingletonPatternDemo.genruntimeconfig.cache
+C:\Users\KEREM\Desktop\design patterns not\kod\SingletonPatternDemo\obj\Debug\net8.0\ref\SingletonPatternDemo.dll
